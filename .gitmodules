@@ -1,0 +1,6 @@
+[submodule "go-portfolio-project"]
+	path = go-portfolio-project
+	url = https://github.com/ojeriakhiomonuwa/go-portfolio-project.git
+[submodule "go-app-devops"]
+	path = go-app-devops
+	url = https://github.com/ojeriakhiomonuwa/go-app-devops.git
